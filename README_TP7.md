@@ -45,13 +45,15 @@ The project demonstrates:
 int[] tab = {3, 1, 3, 3, 2};
 ```
 ### Output :
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/fa91cd7a-da2f-43e4-868a-23948d9e40f4" />
 ### Input 
 ``` 
 int[] tab = {1, 2, 3, 4, 5};
 ```
 ### Output :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/9a101608-6fff-4f75-a980-e308d7adc43e" />
+
+
 ## 💡 Concepts Practiced
 
 - Counting occurrences of array elements
