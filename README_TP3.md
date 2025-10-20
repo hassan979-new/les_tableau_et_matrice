@@ -39,6 +39,9 @@ Ce programme Java remplit une matrice carrée n x n avec des entiers consécutif
 ## 🖥️ Example Execution
 
 ### For n = 2 and n = 5 :
+### Ourput:
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/8de1519b-cc65-4540-a950-469579d2936d" />
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/c9ff19a3-5e98-4c00-87c3-ba71e9f3ae05" />
 
 
 ## 💡 Concepts Practiced
