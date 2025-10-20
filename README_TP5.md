@@ -45,13 +45,14 @@ A circular permutation is defined as an array containing all integers from 1 to 
 int[] tab = {2, 1, 5, 4, 3};
 ```
 ### Output :
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/fe87d8d4-fa5d-4f03-888d-a8a1eafc85dd" />
 ### Input 
 ``` 
 int[] tab = {3, 1, 4, 2, 5};
 ```
 ### Output :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a20e1a2c-e359-4c9a-8d9b-7548eb548646" />
+
 ## 💡 Concepts Practiced
 
 - Array validation and uniqueness check
