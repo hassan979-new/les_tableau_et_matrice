@@ -24,6 +24,7 @@ The project demonstrates:
 
 ## 📂 Project Structure
 - projets
+- │   │
 - ├──TP10/
 - │  src/
 - │   └── ma/projet/ex10/
@@ -57,6 +58,9 @@ int[][] matrice = {
 
 ```
 ### Output :
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/e7537362-d3b5-4bee-b7ec-f1401ee7ea9d" />
+
+
 ### Input 
 ``` 
 int[][] matrice = {
@@ -67,6 +71,7 @@ int[][] matrice = {
 
 ```
 ### Output :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/95827d14-fdb7-453d-b326-0d7536ce2781" />
 
 
 ## 💡 Concepts Practiced
