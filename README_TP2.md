@@ -52,6 +52,8 @@ The LIS of a sequence is the longest subsequence where all elements are in stric
 
 ### Input:  [10, 22, 9, 33, 21, 50, 41, 60]
 
+### Output:
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/d310c21b-6deb-42cd-a6b4-0c85ae158a51" />
 
 ## 💡 Concepts Practiced
 
