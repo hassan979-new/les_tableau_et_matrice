@@ -19,6 +19,7 @@ The project demonstrates:
 ## 📂 Project Structure
 - projets
 - ├──TP8/
+- │   │
 - │  src/
 - │   └── ma/projet/ex8/
 - │ ------     └── Ex8.java
@@ -43,10 +44,13 @@ The project demonstrates:
 ### Input 
 ``` 
 int[] tab = {1, 3, 3, 6, 10};
+int[] tab = {2, 3, 7, 7, 9};
 
 ```
 ### Output :
 
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/f3cc7173-0de6-4e08-8702-d1a69ef744f5" />
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/be6f7aad-2daa-4c21-b5d5-aed7fb8068d8" />
 
 ## 💡 Concepts Practiced
 
