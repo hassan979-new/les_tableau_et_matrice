@@ -51,6 +51,7 @@ int[][] m = {
 }; 
 ```
 ### Output :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/c78af606-3c96-427a-b21a-b334ea72b9d2" />
 
 ## 💡 Concepts Practiced
 
