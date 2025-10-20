@@ -15,7 +15,8 @@ The project demonstrates:
 
 ## 📂 Project Structure
 - projets
-- ├──EX8/
+- │   │ 
+- ├──EX9/
 - │  src/
 - │   └── ma/projet/ex9/
 - │ ------     └── EX9.java
@@ -47,7 +48,7 @@ int[][] matrice = {
 
 ```
 ### Output :
-
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/6f06cc36-bc1e-4fe7-90df-895b69bef666" />
 
 ## 💡 Concepts Practiced
 
