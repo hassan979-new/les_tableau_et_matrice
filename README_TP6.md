@@ -19,7 +19,7 @@ The project demonstrates:
 - │  src/
 - │   └── ma/projet/ex6/
 - │ ------     └── Ex6.java
-- └── README.md
+- └── README_TP6.md
 
 ## ⚙️ Features
 
@@ -42,6 +42,7 @@ The project demonstrates:
 int[] tab = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
 ```
 ### Output :
+<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/a01d802b-e82f-4959-a54b-35fa07958e7d" />
 
 ## 💡 Concepts Practiced
 
